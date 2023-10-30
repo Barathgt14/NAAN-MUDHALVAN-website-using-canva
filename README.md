@@ -1,9 +1,13 @@
 # NAAN-MUDHALVAN-website-using-canva
 # Project Details
   PROJECT TITLE: BUILDING A WEBSITE USING CANVA
+  
   BRAND: THUNDERFORM
+  
   TARGET: All adults 
+  
   PROJECT LINK: https://thunder-form.my.canva.site/thunder-form-nm
+  
   PROJECT VIDEO LINK: https://drive.google.com/file/d/1KNd48vWjLpE3ZuK53M0cVY7ssr__-aC7/view?usp=drivesdk
 # TEAM MEMBERS
   TEAM LEADER : BARATH M(NM ID :DD182ED49301663A1DA4E19E7DDAECA9)
